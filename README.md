@@ -13,7 +13,7 @@ The objective of this project is to develop a machine learning model that can pr
   - **Loan Amount**
   - **Other financial and demographic attributes**
 
-## Requirements
+## Techniques
 
 ### 1. Data Understanding and Cleaning
 - **Exploration**: Begin by exploring the dataset to identify any missing values, inconsistencies, or outliers in the data.
@@ -47,6 +47,4 @@ The objective of this project is to develop a machine learning model that can pr
 
 
 
----
 
-This is the summary of the project goals and steps to be followed, aimed at building an effective loan approval prediction system using machine learning techniques.
