@@ -60,7 +60,7 @@ We train and compare **at least 3 classification models**:
 ✔ Use **SHAP values** or **Feature Importance** to explain predictions.  
 ✔ Identify the **most important factors** in loan approval decisions.  
 
-### **📌 Deployment Simulation (Optional)**
-✔ Create a **script or web interface** to allow users to input customer details and get a **loan approval prediction**.  
+### **📌 Deployment Simulation **
+✔ Run a **script Deployment** to use the app and get a **loan approval prediction**.  
 
 ---
